@@ -1,5 +1,5 @@
 # Recovery Of Missing People
-This is a Java desktop application, Database Management System (DNA Management System). Helps to match the DNA of the newly found missing people with the DNA database, also finds out if two samples match. Used JavaFX For User Graphical inteface. Build a database with MySQL. Made the databse connection on MySQL server. 
+This is a Java desktop application, Database Management System (DNA Management System). Helps to match the DNA of the newly found missing people with the DNA database, also finds out if two samples match, enables adding, deleteing and vewing the databse records table. Used JavaFX For User Graphical inteface. Build a database with MySQL. Made the databse connection on MySQL server. 
 This project is built volunteerly, it was challengeing beacause it was asked only before one day of the daay it was needed for. I hope to implement more features on this application such as reading the DNA sample from a .txt file.
 
 # Running the project 
