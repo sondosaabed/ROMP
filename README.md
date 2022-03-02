@@ -1,10 +1,25 @@
-# ROMP
-Recovery Of Missing People: Java Desktop Application, DNA database management System.
+# Recovery Of Missing People
+This is a Java desktop application, Database Management System (DNA Management System). Helps to match the DNA of the newly found missing people with the DNA database, also finds out if two samples match. Used JavaFX For User Graphical inteface. Build a database with MySQL. Made the databse connection on MySQL server. 
+This project is built volunteerly, it was challengeing beacause it was asked only before one day of the daay it was needed for. I hope to implement more features on this application such as reading the DNA sample from a .txt file.
 
+# Running the project 
+In order to run the project, needs the JavaFx library to be build on the projecet path. And the Java-MySQl-connector jar in order to make the connection to the Database. 
+In the databaseconnection.java class you need to chanage the db username and password.
+The database is named "dna", the table is named "records".
+The username used in GUI: Mays, Password: "0000". Is changed in the Login.java class.
+
+# Programms versions
+javafx.version=17.0.1, 
+MySQl.Server.version=8.0, 
+MySQL.Workbench.version=8.0, 
+Java.version=17.0.8
+mysql.connector.java.version=5.1.47
+
+# Screenshots of Application
 Login:
 ![1](https://user-images.githubusercontent.com/65151701/156459343-3ffd20ed-45e8-48f2-8de0-0924435cf528.png)
 
-Home screen:
+Home:
 ![2](https://user-images.githubusercontent.com/65151701/156459495-88e91ad8-a6f1-46cb-ba3d-cf199ae9155f.png)
 
 Search for a DNA:
